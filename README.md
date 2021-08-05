@@ -13,7 +13,10 @@ EBLIS Abzar HACK
 4-> chmod +x install.sh
 
 5-> ./install.sh
+#-------------------------
+دوباره خواستین ران کنید کافیه بزنید
 
+-> python3 XC.py
 #---------توضیح------------
 
 ابزار EBLIS 
